@@ -34,7 +34,7 @@ Configure the pin layout. Keep in mind, that the IR receiver only works  with in
 # Arduino Nano configuration example
 A quick schema of my used hardware. The pin-configuration of the led.ino matches this picture.
 
-[schema]:  "Arduino Nano sample configuration"
+![Arduino Nano sample configuration](https://raw.githubusercontent.com/johwiese/Arduino-LED-Strip-IR-controlled/master/doc/img/schema.png)
 
 
 # Thanks
